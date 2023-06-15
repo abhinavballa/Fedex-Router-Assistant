@@ -1,0 +1,26 @@
+Driver ID,Day of the Week,Weather Condition,Delivery Area,Number of Packages
+1,Monday,Sunny,Urban,55
+1,Tuesday,Rainy,Rural,48
+1,Wednesday,Cloudy,Suburban,62
+1,Thursday,Snowy,Urban,54
+1,Friday,Sunny,Rural,60
+2,Monday,Snowy,Urban,67
+2,Tuesday,Cloudy,Suburban,52
+2,Wednesday,Rainy,Rural,58
+2,Thursday,Sunny,Urban,66
+2,Friday,Cloudy,Suburban,70
+3,Monday,Rainy,Rural,45
+3,Tuesday,Sunny,Urban,43
+3,Wednesday,Cloudy,Suburban,47
+3,Thursday,Snowy,Urban,43
+3,Friday,Rainy,Rural,48
+4,Monday,Sunny,Urban,78
+4,Tuesday,Cloudy,Suburban,65
+4,Wednesday,Rainy,Rural,70
+4,Thursday,Snowy,Urban,75
+4,Friday,Sunny,Urban,82
+5,Monday,Snowy,Urban,60
+5,Tuesday,Cloudy,Suburban,50
+5,Wednesday,Sunny,Rural,55
+5,Thursday,Rainy,Urban,58
+5,Friday,Cloudy,Suburban,65
